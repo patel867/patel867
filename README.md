@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @patel867
+- 👋 Hi, I’m Jay Patel
 - 👀 I’m interested in MachineLearning
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on ...
